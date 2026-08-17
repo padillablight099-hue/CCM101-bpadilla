@@ -27,7 +27,7 @@ The AWS Management Console is a web-based dashboard accessible at **console.aws.
 - **Industry-Specific Solutions** — Dedicated solutions for financial services, healthcare, government, education, retail, and manufacturing.
 
 ## References & Citations
-> 1. AWS Official Homepage — https://aws.amazon.com — Captured 17 August 2026
+> 1. AWS Official Homepage — https://aws.amazon.com
 > 2. AWS Global Infrastructure — https://aws.amazon.com/about-aws/global-infrastructure/
 > 3. Amazon EC2 — https://aws.amazon.com/ec2/
 > 4. AWS Storage Services — https://aws.amazon.com/products/storage/
