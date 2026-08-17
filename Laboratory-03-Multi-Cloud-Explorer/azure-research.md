@@ -27,7 +27,7 @@ The Azure Management Portal is accessible via **portal.azure.com**. The public w
 - **AI-Enabled Enterprise Systems** — Unify AI, data, and business applications to build intelligent systems across the organization.
 
 ## References & Citations
-> 1. Azure Official Homepage — https://azure.microsoft.com — Captured 17 August 2026
+> 1. Azure Official Homepage — https://azure.microsoft.com
 > 2. Azure Global Infrastructure — https://azure.microsoft.com/en-us/explore/global-infrastructure/
 > 3. Azure Virtual Machines — https://azure.microsoft.com/en-us/products/virtual-machines/
 > 4. Azure Storage — https://azure.microsoft.com/en-us/products/storage/
